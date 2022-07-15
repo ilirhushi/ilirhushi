@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Gilded Finance**
+- 🏢 I'm currently working as a **Full Stack Engenieer**
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
 - 🌱 Learning all about **Open Source** & **Blockchain**
 - 💬 Ping me about **javascript**, **laravel**, **development**, **design thinking**, **project management**
