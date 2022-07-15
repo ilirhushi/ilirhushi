@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working as a **Full Stack Engenieer**
+- 🏢 I'm currently working as a **Full Stack Engineer**
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
 - 🌱 Learning all about **Open Source** & **Blockchain**
 - 💬 Ping me about **javascript**, **laravel**, **development**, **design thinking**, **project management**
