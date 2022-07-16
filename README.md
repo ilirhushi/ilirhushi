@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Tirana, Albania.
+#### I'm a Full-Stack Engineer working in Tirana, Albania.
 
 ##### BIO
 
