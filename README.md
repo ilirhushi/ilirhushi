@@ -2,6 +2,8 @@
 
 #### I'm a Full-Stack Engineer working in Tirana, Albania.
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Filirhushi%2Filirhushi&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Filirhushi%2Filirhushi)
+
 ##### BIO
 
 - 🏢 I'm currently working as a **Full Stack Engineer**
