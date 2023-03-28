@@ -9,7 +9,7 @@
 - 🏢 I'm currently working as a **Full Stack Engineer**
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
 - 🌱 Learning all about **Open Source** & **Blockchain**
-- 💬 Ping me about **javascript**,**python**, **php**, **development**, **design thinking**, **project management**
+- 💬 Ping me about **javascript**, **python**, **php**, **development**, **design thinking**, **project management**
 - 📫 Reach me: [twitter.com/_ilir_hushi](https://twitter.com/_ilir_hushi) or [mail](mailto:ilirhushi@gmail.com?subject=[GitHub%20Source]%20Hi%20Ilir)
 - ⚡️ Fun fact: I'm a huge fan of Football / Soccer
 
